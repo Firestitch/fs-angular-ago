@@ -1,7 +1,7 @@
 {
   "name": "fs-angular-ago",
   "namespace": "ago",
-  "port": "5012",   
+  "port": "5014",   
   "moduleName": "app",
   "version": "0.0.0",
   "appPath": "app",

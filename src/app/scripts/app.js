@@ -5,7 +5,7 @@ angular
     'config',
     'ui.router',
     'ngMaterial',
-    'fs-angular-color'
+    'fs-angular-ago'
 ])
 .config(function ($stateProvider, $urlRouterProvider) {
 
